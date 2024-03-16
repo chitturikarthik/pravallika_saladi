@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - ISUOG Training</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="image-container">            
+            <img src="images/iisc.png" alt="IISc">
+            <img src="images/cpdm.png" alt="CPDM">
+            <img src="images/utsaah.png" alt="UTSAAH">
+
+        </div>
+        <a href="index.html">Home</a>
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="contact.html">Contact</a>
+        <!-- Add relevant sections in the navbar -->
+    </div>
+
+    <div class="container">
+         
+        <h1>Contact Us </h1>
+        <div class="contact-content">
+        <img src="images/cat.png" alt="Saladi" style="width: 150px; margin-left : 45px; padding-right: 10px;">
+        <div class="details">
+            <p>Saladi Pravallika</p>
+            <p>PhD Scholar,</p>
+            <p>UTSAAH Lab,</p>
+            <p>Centre for Product Design and Manufacturing,</p>
+            <p>Indian Institute of Science Bangalore</p>
+        </div>
+    </div>
+
+    </div>
+</body>
+</html>
